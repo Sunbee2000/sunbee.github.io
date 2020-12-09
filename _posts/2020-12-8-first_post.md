@@ -1,4 +1,4 @@
 # Hello world
 
 This is my first post
-![Image description](images/filename.jpg)
+![Gryzzle](images/Image_10.jpg)
