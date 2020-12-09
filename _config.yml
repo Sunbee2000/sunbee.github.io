@@ -8,7 +8,7 @@ I have a *blog*
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Deep Learning for Life Science
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: The site is for applying Machine Learning and Deep Learning in Bio Technology and Life Science
 github_username: sunbee
 
 # Email and twitter are optional:
